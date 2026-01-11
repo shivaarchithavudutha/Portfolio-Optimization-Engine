@@ -1,6 +1,7 @@
 # Portfolio Optimization Engine
 ## Modern Portfolio Theory & Efficient Frontier Analysis
 
+![Efficient Frontier](efficient_frontier.png)
 This project implements the **Markowitz Portfolio Theory** to determine the optimal risk-adjusted allocation for a multi-asset portfolio. It leverages quadratic optimization concepts to find the **Efficient Frontier**.
 
 ## Objective
